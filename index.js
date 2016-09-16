@@ -1,0 +1,5 @@
+require('dfsp-directory')
+require('dfsp-rule')
+require('dfsp-transfer')
+require('dfsp-api')
+require('dfsp-ussd')
